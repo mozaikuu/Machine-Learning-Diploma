@@ -1,0 +1,4 @@
+user, reaction_speed(in_ms), type_of_activation
+x,5,sound
+y,4,electricity
+z,3,visual
